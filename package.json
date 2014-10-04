@@ -1,0 +1,24 @@
+{
+  "name": "tfs-twite-app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel.oliveira@bravisoftware.com",
+  "license": "ISC",
+  "dependencies": {
+    "connect-browserify": "^3.2.1",
+    "ejs": "^1.0.0",
+    "express": "^4.9.5",
+    "morgan": "^1.3.2",
+    "node-jsx": "^0.11.0",
+    "path": "^0.4.9",
+    "react": "^0.11.2",
+    "react-async": "^1.0.2",
+    "reactify": "^0.14.0",
+    "underscore": "^1.7.0",
+    "url": "^0.10.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "tfs-twite-app",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Oliveira Filho"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "react": "~0.11.2"
+  }
+}
